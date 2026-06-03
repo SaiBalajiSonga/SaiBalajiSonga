@@ -2,14 +2,12 @@
 
 # Sai Balaji Songa
 
-**Engineering intelligent systems — from autopilot models to empathy engines.**
+**Hi, I'm an undergraduate student at IIT Bombay with a passion for continuous learning. I enjoy exploring distinct technical domains-ranging from engineering simulations and computational solvers to data analysis and web development-and I value the unique experiences each field brings.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-balaji-songa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaiBalajiSonga)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saibalajisonga268@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/saibalajisonga)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SaiBalajiSonga&style=flat-square&color=555&label=profile+views)
 
 </div>
 
@@ -17,7 +15,7 @@
 
 ## About
 
-I'm a developer and engineer with a passion for building things that matter — whether that's autonomous flight control systems, EV policy analysis, or tools that make the web more human.
+I'm a developer and engineer with a passion for building things that matter — whether that's a
 
 - 🎯 &nbsp; Focused on **AI/ML**, **Full-Stack Web**, and **Computational Engineering**
 - 🛩️ &nbsp; Built an autopilot model for the **F-104 Starfighter** in MATLAB
@@ -54,33 +52,3 @@ I'm a developer and engineer with a passion for building things that matter — 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Autopilot-Model-for-F-104-Starfighter**](https://github.com/SaiBalajiSonga/Autopilot-Model-for-F-104-Starfighter) | Flight control system modelling for the F-104 Starfighter aircraft | MATLAB |
-| [**Empathy-Engine**](https://github.com/SaiBalajiSonga/Empathy-Engine) | An emotionally intelligent interaction system | TypeScript |
-| [**india-ev-transition-analysis**](https://github.com/SaiBalajiSonga/india-ev-transition-analysis) | Data analysis on India's EV adoption and policy landscape | Jupyter Notebook |
-| [**thin-airfoil-solver**](https://github.com/SaiBalajiSonga/thin-airfoil-solver) | Computational aerodynamics solver based on thin airfoil theory | Python |
-| [**innovatefest**](https://github.com/SaiBalajiSonga/innovatefest) | SMP Web Nominee Assignment — event and fest web platform | JavaScript |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SaiBalajiSonga&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiBalajiSonga&layout=compact&theme=default&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"The science of today is the technology of tomorrow."*
-
-</div>
